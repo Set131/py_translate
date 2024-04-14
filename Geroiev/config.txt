@@ -1,0 +1,4 @@
+Output destination: screen
+Max characters: 10000
+Max words: 600
+Max sentences: 100
